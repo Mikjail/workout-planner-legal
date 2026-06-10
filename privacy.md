@@ -6,7 +6,7 @@ permalink: /privacy
 
 # Privacy Policy
 
-**Last updated:** June 10, 2026
+**Last updated:** June 10, 2026 (v1.1)
 
 This Privacy Policy explains how ShapeYou ("we", "us", "our") collects, uses, and protects your information when you use the Workout Planner app ("App"). By using the App you agree to this policy.
 
@@ -108,7 +108,7 @@ To exercise any right, email **support@shapeyou.app**. We will respond within 30
 
 ## 6. Children's Privacy
 
-The App is not directed at children under 13. We do not knowingly collect personal information from anyone under 13. If you believe a child under 13 has provided us data, contact us and we will delete it promptly.
+The App is not directed at anyone under 18. We do not knowingly collect personal information from anyone under 18. If you believe a person under 18 has provided us data, contact us and we will delete it promptly.
 
 ---
 

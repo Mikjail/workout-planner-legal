@@ -6,7 +6,7 @@ permalink: /terms
 
 # Terms of Service
 
-**Version:** 1.0  
+**Version:** 1.1  
 **Last updated:** June 10, 2026
 
 These Terms of Service ("Terms") govern your use of the Workout Planner mobile application ("App") provided by ShapeYou ("we", "us", or "our"). By creating an account or using the App you agree to these Terms.
@@ -15,7 +15,7 @@ These Terms of Service ("Terms") govern your use of the Workout Planner mobile a
 
 ## 1. Acceptance & Eligibility
 
-You must be at least **13 years old** to use the App. By using the App you represent that you meet this requirement and have the legal capacity to enter into this agreement.
+You must be at least **18 years old** to use the App. By using the App you represent that you meet this requirement and have the legal capacity to enter into this agreement.
 
 When we update these Terms we will notify you through the App. Continued use after the effective date constitutes acceptance of the revised Terms.
 
