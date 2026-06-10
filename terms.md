@@ -6,8 +6,8 @@ permalink: /terms
 
 # Terms of Service
 
-**Version:** 1.1  
-**Last updated:** June 10, 2026
+**Version:** 2026-06-10  
+**Last updated:** 2026-06-10
 
 These Terms of Service ("Terms") govern your use of the Workout Planner mobile application ("App") provided by ShapeYou ("we", "us", or "our"). By creating an account or using the App you agree to these Terms.
 

@@ -6,7 +6,8 @@ permalink: /privacy
 
 # Privacy Policy
 
-**Last updated:** June 10, 2026 (v1.1)
+**Version:** 2026-06-10  
+**Last updated:** 2026-06-10
 
 This Privacy Policy explains how ShapeYou ("we", "us", "our") collects, uses, and protects your information when you use the Workout Planner app ("App"). By using the App you agree to this policy.
 
